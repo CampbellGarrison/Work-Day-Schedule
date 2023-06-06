@@ -21,7 +21,7 @@ Day.js - JavaScript library for working with dates and times
 #Installation
 Clone the repository: git clone https://github.com/your-username/work-day-scheduler.git
 Open the project in your code editor.
-Open index.html in your web browser.
+Open index.html in your web browser. https://campbellgarrison.github.io/Work-Day-Schedule/
 
 #Usage
 The app will display the current date and time at the top of the page.
