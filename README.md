@@ -29,4 +29,5 @@ Each time block represents a specific hour of the work day.
 Enter your task or appointment in the corresponding time block's textarea.
 Click the save button to save the input for that time block.
 The saved input will persist even if you refresh or close the page.
-The time blocks will be styled differently based on whether they are in the past, present, or future.
+The time blocks <img width="1470" alt="Screenshot 2023-06-05 at 9 51 51 PM" src="https://github.com/CampbellGarrison/Work-Day-Schedule/assets/130091714/cb7e0066-f9c9-44f4-9f97-48d445b9347d">
+will be styled differently based on whether they are in the past, present, or future.
